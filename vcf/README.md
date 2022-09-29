@@ -25,7 +25,8 @@ Using the ANN section of the INFO column...
 
 Create a file and append to it from a bcftools query:
 
+
 ```
-echo "ID\tAllele\tAnnotation\tAnnotation_Impact\tGene_Name\tGene_ID\tFeature_Type\tFeature_ID\tTranscript_BioType" > variant_annotaions.tsv
-bcftools query -f "%ID|%ANN \n" sorghum.filtered.season4.season6.annotated.vcf.gz | cut -d'|' -f 1,2,3,4,5,6,7,8,9 | tr '|' '\t' >> variant_annotaions.tsv
+echo "CHROM\tPOS\tID\tREF\tAllele\tAnnotation\tAnnotation_Impact\tGene_Name\tGene_ID\tFeature_Type\tFeature_ID\tTranscript_BioType" > variant_annotaions.tsv
+bcftools query -f "%CHROM|%POS|%ID|%REF|%ANN \n" sorghum.filtered.season4.season6.annotated.vcf.gz | cut -d'|' -f 1,2,3,4,5,6,7,8,9 | tr '|' '\t' >> variant_annotaions.tsv
 ```
