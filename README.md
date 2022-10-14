@@ -38,18 +38,4 @@ tsv
 
 Followed by [filtering the vcf](vcf/README.md) by sites identified by GWAS at differing pvalue cutoffs
 
-
-
-File name:
-
-season_phenotype_filter_pvalue_
-
-Example file name for files exported from the VCF filtering process:
-
-season6_maxgrowth_growthrateQTLmaxgrowthGWAS_0001
-
-season6_maxheight_canopyheightGWAS_0001
-
-Each "run" will have one VCF file and a zipped archive with all of the distance matrices for each SNP left after the filtering process is done.
-
-Each "run" will be processed separately against the variation in max growth rate and max height data to identify SNPs with variation that mimic the variation of the phenotype of concern.
+Finally, [matrices are produced] for each line of each vcf file by comparing Genotype values. Partial matches (Cultivar A: `0|1` vs Cultivar B:`1|0`) will correlate at `0.5`.  
