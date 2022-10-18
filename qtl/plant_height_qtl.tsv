@@ -1,0 +1,506 @@
+QTL Search | OZ Sorghum						
+QTL Id	Publication	Population	Trait Description	LG:Start-End (v3.0)	Genes Under QTL (v3.0)	Synteny
+QHGHT1.30	Cuevas & Prom 2020	NPGS Sudan Sorghum Core collection	Height (plant height)	1:0-211157	21	
+QHGHT1.37	Liu et al 2019	Tx623 x S. virgatum	Plant Height/Panicle Length	1:0-4093151	554	
+QTHGT1.1	Feltus et al 2006	BTx623/S. propinquum	Tiller height	1:0-10384146	1370	
+QHGHT1.35	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	1:0-13145267	1666	
+QPLEN1.12	Rami et al 1998	IS2807/379	Panicle length	1:3984727-7587829	481	
+QHGHT1.2	Kebede et al 2001	SC56/Tx7000	Height (plant height)	1:4862819-7562505	367	
+QHGHT1.34	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	1:5121172-10603925	710	
+QHGHT1.27	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	1:8969025-10231643	166	
+QHGHT1.3	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	1:12440782-12574938	5	
+QHGHT1.4	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	1:12440782-12574938	5	
+QPEDL1.1	Parh 2005	IS8525/R931945-2-2	Peduncle length	1:12453078-17085695	381	
+QPLEN1.14	Takai et al 2012	MS138B/74LH3213	Panicle length	1:14473430-24238624	675	
+QTHGT1.2	Hart et al 2001	BTx623/IS3620C	Tiller height	1:22334383-52225029	459	
+QHGHT1.6	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	1:24078773-53916420	456	
+QHGHT1.5	Hart et al 2001	BTx623/IS3620C	Height (plant height)	1:24186681-52681319	414	
+QHGHT1.31	Cuevas & Prom 2020	NPGS Sudan Sorghum Core collection	Height (plant height)	1:24706144-49768400	312	
+QHGHT1.7	Upadhyaya et al 2013b	mini-core set	Height (plant height)	1:53201472-53762081	13	
+QPLEN1.18	Pereira et al 1995	CK60/PI229828	Panicle length	1:53383165-60346271	420	
+QHGHT1.8	Guan et al 2011	Shihong137/L-Tian	Height (plant height)	1:54541207-58709704	253	
+QHGHT1.22	Burks et al 2015	Sweet sorghum diversity panel (n=252)	Height (plant height)	1:55443908-57260691	124	
+QSILN1.1	Hilley et al 2016	Hegari/80M	Stem internode length	1:57814833-67709468	962	
+QHGHT1.36	Liu et al 2019	Tx623 x S. virgatum	Plant Height/Panicle Length	1:59838155-65758901	586	
+QHGHT1.1	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	1:60761235-63338491	247	
+QHGHT1.9	Ritter et al 2008	R9188/R9403463-2-1	Height (plant height)	1:62300652-63488948	113	
+QHGHT1.28	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	1:62346177-63163769	87	
+QHGHT1.23	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	1:63156348-64948356	171	
+QHGHT1.39	Marla et al 2019	"NAM (BTx623 x Niu Shen Zui, Hong Ke Zi & Kaoliang) - JLM"	Height (plant height)	1:63246853-63261969	2	
+QPEDL1.2	Klein et al 2001	RTx430/Sureno	Peduncle length	1:64685255-66607564	215	
+QHGHT1.10	Sakhi et al 2013	Diversity research set (n=107)	Height (plant height)	1:65810643-66259704	49	
+QHGHT1.11	Sakhi et al 2013	Diversity research set (n=107)	Height (plant height)	1:65810643-66259704	49	
+QHGHT1.29	Boyles et al 2017	BTxARG-1/PI656056	Height (plant height)	1:67800819-71268120	453	
+QHGHT1.12	Shiringani et al 2010	M71/SS79	Height (plant height)	1:67845190-70448561	345	
+QHGHT1.40	Marla et al 2019	"NAM (BTx623 x Niu Shen Zui, Hong Ke Zi & Kaoliang) - JLM"	Height (plant height)	1:67892129-67900035	2	
+QPLEN1.24	Takai et al 2012	MS138B/74LH3213	Panicle length	1:67976288-70031057	274	
+QPLEN1.25	Takai et al 2012	MS138B/74LH3213	Panicle length	1:67986544-69969008	267	
+QPLEN1.23	Takai et al 2012	MS138B/74LH3213	Panicle length	1:67987870-69960981	265	
+QHGHT1.24	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	1:68010881-72248842	555	
+QHGHT1.25	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	1:68050538-72016423	516	
+QHGHT1.38	Marla et al 2019	BTx623/Hong Ke Zi (CIM)	Height (plant height)	1:68077922-69728620	222	
+QHGHT1.13	Rami et al 1998	IS2807/379	Height (plant height)	1:69552100-71436960	245	
+QHGHT1.26	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	1:69750253-71398896	215	
+QHGHT1.21	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	1:69892099-74204679	551	
+QHGHT1.15	Feltus et al 2006	BTx623/IS3620C	Height (plant height)	1:69944222-72244293	294	
+QHGHT1.14	Hart et al 2001	BTx623/IS3620C	Height (plant height)	1:70051648-71848220	225	
+QPLEN1.27	Pereira et al 1995	CK60/PI229828	Panicle length	1:70924602-76912479	742	
+QPLEN1.26	Rami et al 1998	IS2807/379	Panicle length	1:71009231-74176341	405	
+QHGHT1.17	Wang et al 2014a	IS8525/R931945-2-2	Height (plant height)	1:74818452-78396425	446	
+QHGHT1.32	Cuevas & Prom 2020	NPGS Sudan Sorghum Core collection	Height (plant height)	1:74861286-75074421	23	
+QHGHT1.16	Kebede et al 2001	SC56/Tx7000	Height (plant height)	1:75100899-75610212	66	
+QHGHT1.18	Lin et al 1995	BTx623/S. propinquum	Height (plant height)	1:75434106-80878678	663	
+QHGHT1.33	Cuevas & Prom 2020	NPGS Sudan Sorghum Core collection	Height (plant height)	1:76632844-77179306	73	
+QTHGT1.3	Feltus et al 2006	BTx623/S. propinquum	Tiller height	1:77174548-80878678	445	
+QHGHT1.19	Parh 2005	IS8525/R931945-2-2	Height (plant height)	1:77677015-80878678	379	
+QHGHT1.20	Parh 2005	IS8525/R931945-2-2	Height (flag leaf height)	1:77906780-80878678	351	
+QPEDL1.3	Parh 2005	IS8525/R931945-2-2	Peduncle length	1:78396425-80878678	288	
+QHGHT2.9	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	2:1212467-1328598	18	
+QHGHT2.6	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	2:20403133-48551270	232	
+QHGHT2.14	Marla et al 2019	"NAM (BTx623 x Niu Shen Zui, Hong Ke Zi & Kaoliang) - JLM"	Height (plant height)	2:46920192-47906825	28	
+QHGHT2.11	Girma et al 2019	Ethiopian landraces	Height (plant height)	2:53871073-55116774	48	
+QSLEN2.1	Bekele et al 2014	SS79/M71	Shoot length (seedling stage)	2:55942086-58987393	224	
+QHGHT2.7	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	2:59553889-59820305	27	
+QHGHT2.13	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	2:60182134-66050977	708	
+QPLEN2.12	Parh 2005	IS8525/R931945-2-2	Panicle length	2:60196248-62096609	208	
+QPLEN2.13	Rami et al 1998	IS2807/379	Panicle length	2:60430131-61822597	157	
+QHGHT2.1	Shiringani et al 2010	M71/SS79	Height (plant height)	2:61694064-62349440	76	
+QHGHT2.2	Mantilla Perez et al 2014	Sorghum Association Panel (SAP)	Height (plant height)	2:61967503-62028321	11	
+QPLEN2.16	Srinivas et al 2009	296B/IS18551	Panicle length	2:62689548-64812500	275	
+QHGHT2.12	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	2:64092800-70841631	899	
+QHGHT2.10	Kong et al 2018	BTx623/IS3620C	Height (plant height)	2:65000264-65241434	37	
+QHGHT2.3	Wang et al 2012	mini-core set	Height (plant height)	2:65325908-65679315	48	
+QHGHT2.4	Wang et al 2012	mini-core set	Height (plant height)	2:65325908-65679315	48	
+QHGHT2.8	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	2:66467661-67569058	165	
+QPLEN2.23	Rami et al 1998	IS2807/249	Panicle length	2:70169066-71574179	192	
+QHGHT2.5	Rami et al 1998	IS2807/249	Height (plant height)	2:70281793-71271489	128	
+QHGHT3.1	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	3:0-1944223	234	
+QHGHT3.2	Brown et al 2006	BTx623/IS3620C	Height (plant height)	3:0-2414897	284	
+QHGHT3.3	Feltus et al 2006	BTx623/IS3620C	Height (plant height)	3:1933237-4813552	319	
+QHGHT3.5	Hart et al 2001	BTx623/IS3620C	Height (plant height)	3:2977479-6134556	418	
+QHGHT3.22	Kong et al 2018	BTx623/IS3620C	Height (plant height)	3:2992535-3031013	6	
+QHGHT3.23	Kong et al 2018	BTx623/IS3620C	Height (flag leaf height)	3:2992535-3031013	6	
+QHGHT3.4	Phuong et al 2013	IS2449/IS1488	Height (plant height)	3:3030648-6095949	404	
+QHGHT3.6	Phuong et al 2013	IS2449/IS1488	Height (plant height)	3:10930634-11217098	29	
+QHGHT3.7	Phuong et al 2013	IS2449/IS1488	Height (plant height)	3:10981234-11835426	83	
+QHGHT3.8	Shiringani et al 2010	M71/SS79	Height (plant height)	3:11186989-16226614	314	
+QHGHT3.9	Shiringani et al 2010	M71/SS79	Height (plant height)	3:54694928-55637718	92	
+QHGHT3.10	Ritter et al 2008	R9188/R9403463-2-1	Height (plant height)	3:57345229-57756253	34	
+QPLEN3.14	Rami et al 1998	IS2807/379	Panicle length	3:57785983-59104763	150	
+QHGHT3.11	Lin et al 1995	BTx623/S. propinquum	Height (plant height)	3:58295561-62553856	529	
+QHGHT3.17	Bai et al 2017	BTx623/Rio	Height (plant height)	3:58852769-62427436	444	
+QHGHT3.14	Phuong et al 2013	IS2449/IS1488	Height (plant height)	3:60567650-63587224	403	
+QHGHT3.15	Wang et al 2014a	ICSV745/R890562-1-2	Height (plant height)	3:60944106-65311221	573	
+QHGHT3.12	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	3:61027324-61443413	46	
+QHGHT3.13	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	3:61027324-61443413	46	
+QPEDL3.1	Parh 2005	IS8525/R931945-2-2	Peduncle length	3:62348756-65707234	442	
+QSHGT3.1	McCormick et al 2017	BTx623/IS3620C	shoot height	3:65311221-69143817	519	
+QHGHT3.21	Harris-Shultz et al 2015	HoneyDrip/Collier	Height (plant height)	3:65382012-69143846	510	
+QHGHT3.18	Bai et al 2017	BTx623/Rio	Height (plant height)	3:65416545-69211928	514	
+QHGHT3.20	Harris-Shultz et al 2015	HoneyDrip/Collier	Height (plant height)	3:67037126-67647534	92	
+QHGHT3.24	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	3:67111051-72337616	695	
+QPLEN3.17	Pereira et al 1995	CK60/PI229828	Panicle length	3:67683265-74384257	899	
+QHGHT3.19	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	3:69596756-69798756	33	
+QHGHT3.16	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	3:69933510-72862046	387	
+QHGHT4.22	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	4:0-6652660	839	
+QHGHT4.2	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	4:2655500-4670409	257	
+QHGHT4.6	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	4:4631797-7355684	309	
+QHGHT4.5	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	4:6440072-6705702	36	
+QHGHT4.3	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	4:6536334-6559540	5	
+QHGHT4.4	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	4:6536334-6559540	5	
+QHGHT4.19	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	4:7130950-7299969	10	
+QHGHT4.7	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	4:7600729-7978358	42	
+QHGHT4.8	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	4:7600729-7978358	42	
+QHGHT4.9	Wang et al 2014a	IS8525/R931945-2-2	Height (plant height)	4:8893914-10023005	66	
+QHGHT4.1	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	4:10150746-51097958	582	
+QPEDL4.1	Klein et al 2001	RTx430/Sureno	Peduncle length	4:12727824-50670016	430	
+QHGHT4.10	Klein et al 2001	RTx430/Sureno	Height (plant height)	4:13362712-50084108	384	
+QHGHT4.11	Shiringani et al 2010	M71/SS79	Height (plant height)	4:40527714-50615790	202	
+QHGHT4.18	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	4:41692886-45157832	41	
+QHGHT4.20	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	4:49564880-49952466	8	
+QHGHT4.12	Phuong et al 2013	IS2449/IS1488	Height (plant height)	4:51547982-53486830	167	
+QHGHT4.15	Zhang et al 2015	Diverse set	Height (plant height)	4:52737876-53406976	68	
+QHGHT4.16	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	4:53628830-61766744	966	
+QHGHT4.13	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	4:55962847-61572196	659	
+QHGHT4.14	Shiringani et al 2010	M71/SS79	Height (plant height)	4:61584928-62136015	71	
+QHGHT4.21	Kong et al 2018	BTx623/IS3620C	Height (flag leaf height)	4:61708307-61746000	5	
+QHGHT4.17	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	4:61903404-61937534	5	
+QHGHT5.1	Mantilla Perez et al 2014	Sorghum Association Panel (SAP)	Height (plant height)	5:1043559-1187186	13	
+QHGHT5.2	Mantilla Perez et al 2014	Sorghum Association Panel (SAP)	Height (plant height)	5:1044889-1188516	12	
+QHGHT5.3	Phuong et al 2013	IS2449/IS1488	Height (plant height)	5:1245237-2002798	85	
+QHGHT5.10	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	5:1283034-1426661	16	
+QHGHT5.12	Kong et al 2018	BTx623/IS3620C	Height (flag leaf height)	5:4599482-4762582	21	
+QHGHT5.4	Wang et al 2014a	IS8525/R931945-2-2	Height (plant height)	5:6050109-7705679	93	
+QHGHT5.5	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	5:6359430-51575227	659	
+QHGHT5.7	Zhang et al 2015	Diverse set	Height (flag leaf height)	5:10987116-11127884	10	
+QHGHT5.6	Shiringani et al 2010	M71/SS79	Height (plant height)	5:11107972-52515528	449	
+QHGHT5.8	Zhang et al 2015	Diverse set	Height (flag leaf height)	5:52492430-52967943	6	
+QHGHT5.11	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	5:62337310-62913651	50	
+QHGHT5.9	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	5:67851150-68385071	42	
+QHGHT5.13	Girma et al 2019	Ethiopian landraces	Height (plant height)	5:68360067-69480720	101	
+QHGHT6.1	Takai et al 2012	MS138B/74LH3213	Height (plant height)	6:0-588689	37	
+QHGHT6.2	Kapanigowda et al 2014	Tx430/Tx7078	Height (plant height)	6:0-1474922	108	
+QPLEN6.2	Takai et al 2012	MS138B/74LH3213	Panicle length	6:498577-1415885	75	
+QPLEN6.3	Takai et al 2012	MS138B/74LH3213	Panicle length	6:1691177-2061323	24	
+QHGHT6.3	Wang et al 2014a	ICSV745/R890562-1-2	Height (plant height)	6:1799691-2589025	41	
+QPLEN6.4	Srinivas et al 2009	296B/IS18551	Panicle length	6:2228951-8472349	190	
+QHGHT6.4	Takai et al 2012	MS138B/74LH3213	Height (plant height)	6:2372572-3688256	60	
+QHGHT6.5	Brown et al 2006	BTx623/IS3620C	Height (plant height)	6:3153035-14654536	203	
+QHGHT6.6	Feltus et al 2006	BTx623/IS3620C	Height (plant height)	6:3472068-20655330	214	
+QSHCH6.1	McCormick et al 2017	BTx623/IS3620C	shoot cylinder height	6:3635207-46020000	714	
+QTHGT6.1	Feltus et al 2006	BTx623/IS3620C	Tiller height	6:3721369-39450587	354	
+QPLEN6.5	Parh 2005	IS8525/R931945-2-2	Panicle length	6:4077524-40639054	374	
+QHGHT6.14	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	6:4224132-44947718	588	
+QHGHT6.84	Bai et al 2017	BTx623/Rio	Height (plant height)	6:4264655-45067310	601	
+QHGHT6.74	Zhang et al 2015	Diverse set	Height (flag leaf height)	6:4307792-39494908	325	
+QHGHT6.75	Zhang et al 2015	Diverse set	Height (flag leaf height)	6:4307792-39494908	325	
+QHGHT6.79	Zhang et al 2015	Diverse set	Height (plant height)	6:4307792-39494908	325	
+QHGHT6.87	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	6:4382639-5864933	33	
+QHGHT6.9	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	6:4383582-21321994	171	
+QHGHT6.7	Wang et al 2012	mini-core set	Height (plant height)	6:4424055-7760215	87	
+QHGHT6.8	Wang et al 2012	mini-core set	Height (plant height)	6:4424055-7760215	87	
+QHGHT6.13	Feltus et al 2006	BTx623/S. propinquum	Height Uniformity	6:7472684-42208514	325	
+QHGHT6.10	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	6:17619179-21801773	10	
+QTHGT6.2	Feltus et al 2006	BTx623/S. propinquum	Tiller height	6:21046774-44929023	410	
+QSILN6.1	Hilley et al 2016	Hegari/80M	Stem internode length	6:21205500-44995144	414	
+QHGHT6.89	Yamaguchi et al 2016	bmr-6/SIL-05	Height (plant height)	6:22445901-43378078	316	
+QHGHT6.12	Lin et al 1995	BTx623/S. propinquum	Height (plant height)	6:24072026-38838096	138	
+QHGHT6.11	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	6:24629142-28811735	22	
+QHGHT6.83	Zhao et al 2016	Sorghum Association Panel (SAP)	Height (plant height)	6:27834658-38482472	111	
+QHGHT6.91	Gelli et al 2016	CK60/China17	Height (plant height)	6:39296212-43944566	209	
+QHGHT6.15	Higgins et al 2014	FamilyC: SC1203/(LandracexBTx406)	Height (plant height)	6:39541646-40039487	19	
+QHGHT6.16	Higgins et al 2014	FamilyA: SC673/(LandracexBTx406)	Height (plant height)	6:39546321-40044162	19	
+QHGHT6.18	Ritter et al 2008	R9188/R9403463-2-1	Height (plant height)	6:39611012-42122635	87	
+QHGHT6.22	Zou et al 2012	654/LTR108	Height (plant height)	6:39661770-43305946	158	
+QHGHT6.25	Zou et al 2012	654/LTR108	Height (plant height)	6:39721670-43724638	190	
+QHGHT6.17	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	6:39835707-40333547	22	
+QSHCH6.2	McCormick et al 2017	BTx623/IS3620C	shoot cylinder height	6:40100000-44830000	230	
+QSHCH6.3	McCormick et al 2017	BTx623/IS3620C	shoot cylinder height	6:40100000-44830000	230	
+QSHGT6.1	McCormick et al 2017	BTx623/IS3620C	shoot height	6:40100000-47611759	503	
+QHGHT6.20	Feltus et al 2006	BTx623/S. propinquum	Height (plant height)	6:40337939-42465701	70	
+QHGHT6.73	Burrell et al 2015	BTx623/SC748-5	Height (plant height)	6:40348730-43578364	147	
+QHGHT6.78	Burrell et al 2015	BTx623/SC748-5	Height (plant height)	6:40348730-43578364	147	
+QHGHT6.19	Higgins et al 2014	FamilyD: SC1038/(LandracexBTx406)	Height (plant height)	6:40405204-41686861	36	
+QHGHT6.76	Zhang et al 2015	Diverse set	Height (flag leaf height)	6:40606494-47854118	521	
+QHGHT6.77	Zhang et al 2015	Diverse set	Height (flag leaf height)	6:40606494-47854118	521	
+QHGHT6.81	Zhang et al 2015	Diverse set	Height (plant height)	6:40606494-47854118	521	
+QHGHT6.82	Zhao et al 2016	Sorghum Association Panel (SAP)	Height (plant height)	6:40661071-42013476	44	
+QHGHT6.21	Upadhyaya et al 2012b	mini-core set	Height (plant height)	6:41649521-42285016	23	
+QHGHT6.23	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	6:41831804-42467299	29	
+QHGHT6.24	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	6:41928794-42545634	33	
+QHGHT6.95	Cuevas & Prom 2020	NPGS Sudan Sorghum Core collection	Height (plant height)	6:42170213-42587281	28	
+QHGHT6.93	Kong et al 2018	BTx623/IS3620C	Height (plant height)	6:42199287-42592297	28	
+QHGHT6.47	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	6:42202457-46264575	293	
+QHGHT6.80	Zhang et al 2015	Diverse set	Height (plant height)	6:42307792-47854118	468	
+QHGHT6.26	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	6:42326720-42614282	26	
+QHGHT6.27	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	6:42326720-42614282	26	
+QHGHT6.28	Higgins et al 2014	FamilyE: SC991/(LandracexBTx406)	Height (plant height)	6:42361473-42620277	22	
+QHGHT6.86	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	6:42432612-42632550	18	
+QHGHT6.92	Hilley et al 2017		Height (plant height)	6:42466029-42638315	17	
+QHGHT6.29	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	6:42484550-42641510	16	
+QHGHT6.30	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	6:42484550-42641510	16	
+QHGHT6.33	Wang et al 2014a	IS8525/R931945-2-2	Height (plant height)	6:42540842-43514210	62	
+QHGHT6.31	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	6:42599451-42848188	27	
+QHGHT6.32	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	6:42599455-42848208	27	
+QHGHT6.34	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	6:43015157-43546856	31	
+QHGHT6.35	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	6:43154841-43616603	37	
+QHGHT6.36	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	6:43154841-43616603	37	
+QHGHT6.37	Higgins et al 2014	FamilyB: SC757/(LandracexBTx406)	Height (plant height)	6:43185450-43627390	36	
+QHGHT6.38	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	6:43185450-43627390	36	
+QHGHT6.39	Higgins et al 2014	FamilyB: SC757/(LandracexBTx406)	Height (plant height)	6:43185450-43627390	36	
+QHGHT6.40	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	6:43185450-43627390	36	
+QHGHT6.41	Higgins et al 2014	FamilyA: SC673/(LandracexBTx406)	Height (plant height)	6:43266670-43656011	32	
+QHGHT6.42	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	6:43370397-43692563	29	
+QHGHT6.43	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	6:43521211-43745709	22	
+QHGHT6.44	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	6:43521211-43745709	22	
+QHGHT6.45	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	6:43521211-43745709	22	
+QHGHT6.94	Kong et al 2018	BTx623/IS3620C	Height (flag leaf height)	6:43561140-43552650	0	
+QHGHT6.46	Higgins et al 2014	FamilyA: SC673/(LandracexBTx406)	Height (plant height)	6:43656256-43843622	9	
+QHGHT6.85	Bai et al 2017	BTx623/Rio	Height (plant height)	6:45068058-50945027	701	
+QPLEN6.10	Pereira et al 1995	CK60/PI229828	Panicle length	6:45288171-51849509	807	
+QHGHT6.48	Higgins et al 2014	FamilyD: SC1038/(LandracexBTx406)	Height (plant height)	6:45391187-45542964	10	
+QHGHT6.49	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	6:45391187-45542964	10	
+QHGHT6.50	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	6:45391187-45542964	10	
+QHGHT6.96	Cuevas & Prom 2020	NPGS Sudan Sorghum Core collection	Height (plant height)	6:45931679-46047954	10	
+QHGHT6.52	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	6:46449918-47615779	125	
+QHGHT6.51	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	6:46561447-47218142	64	
+QHGHT6.53	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	6:46568000-47216519	63	
+QHGHT6.54	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	6:46773612-48200277	168	
+QHGHT6.55	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	6:46873431-48045350	144	
+QHGHT6.56	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	6:46995444-47855975	108	
+QHGHT6.57	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	6:47028784-48266492	161	
+QHGHT6.58	Srinivas et al 2009	296B/IS18551	Height (plant height)	6:47229819-48711265	195	
+QPLEN6.8	Srinivas et al 2009	296B/IS18551	Panicle length	6:47744992-48331292	84	
+QHGHT6.59	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	6:47940683-48245242	40	
+QHGHT6.60	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	6:47940683-48245242	40	
+QHGHT6.61	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	6:47940683-48245242	40	
+QHGHT6.62	Pereira and Lee 1995	CK60/PI229828	Height (plant height)	6:48540991-53719119	678	
+QHGHT6.88	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	6:49724186-50568221	107	
+QHGHT6.98	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	6:49770430-58147596	1112	
+QHGHT6.97	Cuevas & Prom 2020	NPGS Sudan Sorghum Core collection	Height (plant height)	6:51130764-51313487	26	
+QHGHT6.63	Kebede et al 2001	SC56/Tx7000	Height (plant height)	6:51611228-52465988	112	
+QPLEN6.15	Rami et al 1998	IS2807/379	Panicle length	6:52312980-53667965	167	
+QHGHT6.64	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	6:52949402-53290251	49	
+QHGHT6.65	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	6:52949402-53290251	49	
+QHGHT6.66	Shiringani et al 2010	M71/SS79	Height (plant height)	6:54556952-55269043	106	
+QHGHT6.67	Kebede et al 2001	SC56/Tx7000	Height (plant height)	6:54646541-56082737	193	
+QHGHT6.68	Srinivas et al 2009	296B/IS18551	Height (plant height)	6:55388365-57296015	267	
+QHGHT6.90	Cuevas et al 2017	USDA-NPGS Ethiopian germplasm collection	Height (plant height)	6:55388930-55541541	24	
+QPLEN6.19	Parh 2005	IS8525/R931945-2-2	Panicle length	6:56618606-61260478	666	
+QHGHT6.69	Shiringani et al 2010	M71/SS79	Height (plant height)	6:58558543-60251431	249	
+QHGHT6.70	Upadhyaya et al 2012b	mini-core set	Height (plant height)	6:60215708-60319261	16	
+QHGHT6.71	Wang et al 2012	mini-core set	Height (plant height)	6:60215713-60319275	16	
+QHGHT6.72	Wang et al 2012	mini-core set	Height (plant height)	6:60215713-60319275	16	
+QHGHT7.1	Phuong et al 2013	IS2449/IS1488	Height (plant height)	7:2920365-3268283	32	
+QHGHT7.2	Wang et al 2014a	ICSV745/R890562-1-2	Height (plant height)	7:3279177-6275405	257	
+QHGHT7.3	Shiringani et al 2010	M71/SS79	Height (plant height)	7:3480589-6278744	247	
+QHGHT7.88	Girma et al 2019	Ethiopian landraces	Height (plant height)	7:4151830-4816827	68	
+QHGHT7.13	Shehzad and Okuno 2015	Red Kafir/Takakibi (F2:3)	Height (plant height)	7:6820348-58756180	956	
+QHGHT7.63	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	7:6826568-57971602	897	
+QHGHT7.5	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	7:7112525-55191952	699	
+QHGHT7.4	Shiringani et al 2010	M71/SS79	Height (plant height)	7:7830451-9281783	90	
+QHGHT7.9	Parh 2005	IS8525/R931945-2-2	Height (flag leaf height)	7:7984338-55393154	642	
+QHGHT7.6	Parh 2005	IS8525/R931945-2-2	Height (plant height)	7:8232161-55287444	625	
+QHGHT7.12	Shehzad and Okuno 2015	Red Kafir/Takakibi (F2)	Height (plant height)	7:8712875-57944556	777	
+QHGHT7.10	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:8851333-57807640	759	
+QHGHT7.7	Rami et al 1998	IS2807/249	Height (plant height)	7:9405940-54786763	538	
+QPLEN7.6	Rami et al 1998	IS2807/379	Panicle length	7:9644158-54175110	496	
+QHGHT7.8	Rami et al 1998	IS2807/379	Height (plant height)	7:10020434-53294723	445	
+QHGHT7.11	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:42199948-57729128	379	
+QHGHT7.14	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:52284804-57820875	282	
+QSILN7.1	Hilley et al 2016	Hegari/80M	Stem internode length	7:53924374-57857968	231	
+QHGHT7.15	Srinivas et al 2009	296B/IS18551	Height (plant height)	7:55190663-57760757	170	
+QPLEN7.9	Takai et al 2012	MS138B/74LH3213	Panicle length	7:55307429-58247129	199	
+QPLEN7.10	Takai et al 2012	MS138B/74LH3213	Panicle length	7:55307429-58247129	199	
+QHGHT7.16	Takai et al 2012	MS138B/74LH3213	Height (plant height)	7:55594212-57806097	162	
+QPLEN7.11	Takai et al 2012	MS138B/74LH3213	Panicle length	7:55623179-58063222	183	
+QHGHT7.17	Takai et al 2012	MS138B/74LH3213	Height (plant height)	7:55651706-57797202	158	
+QHGHT7.18	Takai et al 2012	MS138B/74LH3213	Height (plant height)	7:55677613-57793194	157	
+QHGHT7.74	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	7:55780308-57691804	145	
+QHGHT7.81	Girma et al 2019	Ethiopian landraces	Height (plant height)	7:55782851-57724245	148	
+QHGHT7.82	Girma et al 2019	Ethiopian landraces	Height (plant height)	7:55782851-57724245	148	
+QHGHT7.84	Girma et al 2019	Ethiopian landraces	Height (plant height)	7:55782851-57724245	148	
+QHGHT7.85	Girma et al 2019	Ethiopian landraces	Height (plant height)	7:55782851-57724245	148	
+QHGHT7.86	Girma et al 2019	Ethiopian landraces	Height (plant height)	7:55782851-57724245	148	
+QHGHT7.87	Girma et al 2019	Ethiopian landraces	Height (plant height)	7:55782851-57724245	148	
+QHGHT7.64	Burks et al 2015	Sweet sorghum diversity panel (n=252)	Height (plant height)	7:55782882-57692202	145	
+QHGHT7.94	Marla et al 2019	BTx623/Kaoliang (CIM)	Height (plant height)	7:55801493-57714954	146	
+QHGHT7.66	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	7:57683232-58901776	90	
+QHGHT7.19	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	7:57709453-58412499	50	
+QHGHT7.67	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	7:57716834-58775268	81	
+QHGHT7.77	Boyles et al 2017	BTxARG-1/PI656056	Height (plant height)	7:57736518-58152279	30	
+QHGHT7.59	Zhang et al 2015	Diverse set	Height (flag leaf height)	7:57800124-61308327	330	
+QHGHT7.60	Zhang et al 2015	Diverse set	Height (flag leaf height)	7:57800124-61308327	330	
+QHGHT7.62	Zhang et al 2015	Diverse set	Height (plant height)	7:57800124-61308327	330	
+QHGHT7.65	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	7:57813909-58409795	43	
+QHGHT7.20	Lin et al 1995	BTx623/S. propinquum	Height (plant height)	7:57821927-58423229	43	
+QHGHT7.90	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	7:58123756-59529121	110	
+QHGHT7.89	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	7:58160919-59527730	108	
+QHGHT7.21	Feltus et al 2006	BTx623/IS3620C	Height (plant height)	7:58363680-58895137	41	
+QSHCH7.1	McCormick et al 2017	BTx623/IS3620C	shoot cylinder height	7:58480000-61100000	254	
+QHGHT7.26	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	7:58507805-59554217	84	
+QPEDL7.1	Klein et al 2001	Rtx430/Sureno	Peduncle length	7:58684345-59149792	37	
+QHGHT7.25	Wang et al 2014a	IS8525/R931945-2-2	Height (plant height)	7:58787996-59544652	61	
+QSHGT7.1	McCormick et al 2017	BTx623/IS3620C	shoot height	7:58850000-61098149	227	
+QPLEN7.12	Srinivas et al 2009	296B/IS18551	Panicle length	7:58858415-59547856	58	
+QHGHT7.72	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	7:58866126-59546987	56	
+QHGHT7.68	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	7:58884005-59546414	55	
+QHGHT7.69	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	7:58890121-59546219	55	
+QHGHT7.71	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	7:58954614-59544153	54	
+QHGHT7.22	Feltus et al 2006	BTx623/IS3620C	Height Uniformity	7:58956891-59527324	53	
+QSHCH7.2	McCormick et al 2017	BTx623/IS3620C	shoot cylinder height	7:59050000-61098149	213	
+QSHGT7.2	McCormick et al 2017	BTx623/IS3620C	shoot height	7:59050000-61098149	213	
+QHGHT7.28	Murray et al 2008a	BTx623/Rio	Height (plant height)	7:59100515-59540617	41	
+QSHCH7.3	McCormick et al 2017	BTx623/IS3620C	shoot cylinder height	7:59200000-61098149	196	
+QHGHT7.23	Higgins et al 2014	FamilyE: SC991/(LandracexBTx406)	Height (plant height)	7:59252522-59415955	18	
+QHGHT7.91	Liu et al 2019	Tx623 x S. virgatum	Plant Height/Panicle Length	7:59257250-61520522	241	
+QHGHT7.70	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	7:59299401-59535766	20	
+QHGHT7.27	Srinivas et al 2009	296B/IS18551	Height (plant height)	7:59313469-59536089	19	
+QPLEN7.13	Pereira et al 1995	CK60/PI229828	Panicle length	7:59318526-61466532	228	
+QHGHT7.35	Burrell et al 2015	BTx623/SC748-5	Height (plant height)	7:59369311-59541275	17	
+QHGHT7.61	Burrell et al 2015	BTx623/SC748-5	Height (plant height)	7:59369311-59541275	17	
+QHGHT7.24	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	7:59411225-59527708	7	
+QHGHT7.36	Zou et al 2012	654/LTR108	Height (plant height)	7:59482862-59544169	4	
+QHGHT7.79	Kong et al 2018	BTx623/IS3620C	Height (plant height)	7:59527178-59530654	0	
+QHGHT7.80	Kong et al 2018	BTx623/IS3620C	Height (flag leaf height)	7:59527178-59530654	0	
+QHGHT7.92	Liu et al 2019	Tx623 x S. virgatum	Plant Height/Panicle Length	7:59528426-61227449	186	
+QHGHT7.75	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	7:59529297-59532773	0	
+QHGHT7.29	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	7:59529707-59533182	0	
+QHGHT7.30	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	7:59529707-59533182	0	
+QHGHT7.31	Higgins et al 2014	FamilyE: SC991/(LandracexBTx406)	Height (plant height)	7:59530115-59533591	0	
+QHGHT7.32	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	7:59530650-59534126	1	
+QHGHT7.33	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	7:59530650-59534126	1	
+QHGHT7.34	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	7:59530650-59534126	1	
+QHGHT7.45	Pereira and Lee 1995	CK60/PI229828	Height (plant height)	7:59531861-61538775	220	
+QHGHT7.78	Mace and Jordan 2010		Height (plant height)	7:59532373-59535848	1	
+QHGHT7.42	Guan et al 2011	Shihong137/L-Tian	Height (plant height)	7:59532884-59539609	1	
+QTHGT7.1	Feltus et al 2006	BTx623/IS3620C	Tiller height	7:59533245-61194122	185	
+QHGHT7.37	Higgins et al 2014	FamilyC: SC1203/(LandracexBTx406)	Height (plant height)	7:59533968-59537444	1	
+QHGHT7.38	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	7:59533968-59537444	1	
+QHGHT7.39	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	7:59533968-59537444	1	
+QHGHT7.40	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	7:59533968-59537444	1	
+QHGHT7.41	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	7:59533968-59537444	1	
+QHGHT7.43	Hart et al 2001	BTx623/IS3620C	Height (plant height)	7:59540301-59550613	0	
+QHGHT7.76	Yamaguchi et al 2016	bmr-6/SIL-05	Height (plant height)	7:59541977-61443045	208	
+QHGHT7.44	Brown et al 2006	BTx623/IS3620C	Height (plant height)	7:59542158-59552927	0	
+QHGHT7.73	Bai et al 2017	BTx623/Rio	Height (plant height)	7:59542355-59549769	0	
+QHGHT7.46	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:59551731-61527847	218	
+QPLEN7.14	Hart et al 2001	BTx623/IS3620C	Panicle length	7:59553534-61880495	255	
+QHGHT7.83	Girma et al 2019	Ethiopian landraces	Height (plant height)	7:59554149-61141251	177	
+QHGHT7.93	Marla et al 2019	BTx623/Hong Ke Zi (CIM)	Height (plant height)	7:59554845-61124012	173	
+QHGHT7.95	Marla et al 2019	BTx623/Niu Shen Zui (CIM)	Height (plant height)	7:59554845-61124012	173	
+QHGHT7.96	Marla et al 2019	"NAM (BTx623 x Niu Shen Zui, Hong Ke Zi & Kaoliang) - JLM"	Height (plant height)	7:59555540-61106772	169	
+QHGHT7.97	Marla et al 2019	"NAM (BTx623 x Niu Shen Zui, Hong Ke Zi & Kaoliang) - JLM"	Height (plant height)	7:59555540-61106772	169	
+QHGHT7.47	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:61174595-61610181	45	
+QHGHT7.48	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:61186047-61860502	69	
+QTHGT7.2	Hart et al 2001	BTx623/IS3620C	Tiller height	7:61208504-61729096	52	
+QHGHT7.50	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:61296757-62011565	73	
+QHGHT7.49	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:61413838-61894485	49	
+QHGHT7.57	Parh 2005	IS8525/R931945-2-2	Height (plant height)	7:61806978-65460255	438	
+QHGHT7.55	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:61910344-63327593	164	
+QHGHT7.56	Feltus et al 2006	BTx623/S. propinquum	Height (plant height)	7:61971712-64586189	316	
+QTHGT7.3	Feltus et al 2006	BTx623/S. propinquum	Tiller height	7:62056310-63903657	233	
+QHGHT7.51	Higgins et al 2014	FamilyC: SC1203/(LandracexBTx406)	Height (plant height)	7:62075142-62161340	10	
+QHGHT7.52	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	7:62075142-62161340	10	
+QHGHT7.53	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	7:62075142-62161340	10	
+QHGHT7.54	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	7:62110413-63178356	126	
+QHGHT7.58	Parh 2005	IS8525/R931945-2-2	Height (flag leaf height)	7:62251233-64417344	266	
+QSLEN8.1	Wang et al 2014b	Shihong137/L-Tian	Shoot length (seedling stage)	8:1896920-3249436	136	
+QHGHT8.1	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	8:5070472-57519538	992	
+QHGHT8.7	Girma et al 2019	Ethiopian landraces	Height (plant height)	8:6037710-6533374	36	
+QHGHT8.6	Girma et al 2019	Ethiopian landraces	Height (plant height)	8:6037716-6533429	36	
+QHGHT8.2	Shiringani et al 2010	M71/SS79	Height (plant height)	8:8198323-56470074	718	
+QHGHT8.3	Phuong et al 2013	IS2449/IS1488	Height (plant height)	8:53884235-56649242	167	
+QPLEN8.4	Hart et al 2001	BTx623/IS3620C	Panicle length	8:56660910-58901165	189	
+QHGHT8.4	Shehzad and Okuno 2015	Red Kafir/Takakibi (F2)	Height (plant height)	8:56697504-59292212	219	
+QHGHT8.5	Kong et al 2018	BTx623/IS3620C	Height (plant height)	8:57490102-57508475	1	
+QHGHT9.66	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	9:396095-2369542	225	
+QHGHT9.1	Lin et al 1995	BTx623/S. propinquum	Height (plant height)	9:1235434-2644633	158	
+QHGHT9.92	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:2110000-2210286	10	
+QHGHT9.86	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:2110015-2210294	10	
+QHGHT9.87	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:2110017-2210295	10	
+QHGHT9.89	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:2110020-2210297	10	
+QHGHT9.88	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:2110022-2210298	10	
+QHGHT9.90	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:2110024-2210299	10	
+QHGHT9.85	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:2110028-2210301	10	
+QHGHT9.91	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:2110030-2210302	10	
+QPLEN9.4	Hart et al 2001	BTx623/IS3620C	Panicle length	9:2378085-2788079	48	
+QHGHT9.2	Wang et al 2014a	Advanced Yield Test germplasm set	Height (plant height)	9:3081469-3358112	26	
+QHGHT9.4	Brown et al 2006	BTx623/IS3620C	Height (plant height)	9:5121127-8157597	197	
+QHGHT9.97	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:5233254-5507194	29	
+QHGHT9.84	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:5233258-5507213	29	
+QHGHT9.95	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:5233260-5507222	29	
+QHGHT9.93	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:5233261-5507227	29	
+QHGHT9.94	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:5233263-5507236	29	
+QHGHT9.96	Girma et al 2019	Ethiopian landraces	Height (plant height)	9:5233266-5507250	29	
+QHGHT9.3	Parh 2005	IS8525/R931945-2-2	Height (plant height)	9:5270218-8138133	188	
+QHGHT9.67	Zhao et al 2016	Sorghum Association Panel (SAP)	Height (plant height)	9:8157530-8157633	0	
+QHGHT9.5	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	9:8157572-47755439	561	
+QHGHT9.77	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	9:45451222-47753233	111	
+QHGHT9.78	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	9:48015059-48223206	26	
+QHGHT9.6	Feltus et al 2006	BTx623/IS3620C	Height Uniformity	9:50485160-52315831	204	
+QHGHT9.7	Shiringani et al 2010	M71/SS79	Height (plant height)	9:50633456-52598530	223	
+QHGHT9.80	Gelli et al 2016	CK60/China17	Height (plant height)	9:50718886-51490320	77	
+QHGHT9.101	Marla et al 2019	BTx623/Kaoliang (CIM)	Height (plant height)	9:51844540-52079569	38	
+QHGHT9.8	Feltus et al 2006	BTx623/S. propinquum	Height (plant height)	9:51845427-56983864	709	
+QHGHT9.10	Lin et al 1995	BTx623/S. propinquum	Height (plant height)	9:52500363-57941639	773	
+QHGHT9.75	Bai et al 2017	BTx623/Rio	Height (plant height)	9:52719464-55273795	336	
+QHGHT9.83	Kong et al 2018	BTx623/IS3620C	Height (plant height)	9:52872251-53122304	32	
+QHGHT9.62	Zhang et al 2015	Diverse set	Height (flag leaf height)	9:53838641-59193962	745	
+QHGHT9.63	Zhang et al 2015	Diverse set	Height (flag leaf height)	9:53838641-59193962	745	
+QHGHT9.64	Zhang et al 2015	Diverse set	Height (plant height)	9:53838641-59193962	745	
+QHGHT9.65	Zhang et al 2015	Diverse set	Height (plant height)	9:53838641-59193962	745	
+QHGHT9.20	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:53864003-57979606	597	
+QSILN9.1	Hilley et al 2016	Hegari/80M	Stem internode length	9:53891036-57860484	576	
+QHGHT9.21	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:54218678-57958850	551	
+QHGHT9.46	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:54697728-57997570	491	
+QHGHT9.16	Takai et al 2012	MS138B/74LH3213	Height (plant height)	9:55057966-57915392	433	
+QHGHT9.30	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:55353960-57947320	395	
+QHGHT9.19	Wang et al 2014a	IS8525/R931945-2-2	Height (plant height)	9:55625467-57924294	344	
+QHGHT9.9	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	9:55668348-56265567	89	
+QHGHT9.45	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:56186991-57963139	263	
+QHGHT9.102	Marla et al 2019	BTx623/Niu Shen Zui (CIM)	Height (plant height)	9:56568827-56776460	28	
+QHGHT9.81	Boyles et al 2017	BTxARG-1/PI656056	Height (plant height)	9:56643753-57916549	192	
+QHGHT9.11	Brown et al 2008	Sorghum Association Panel (SAP)	Height (preflag leaf height)	9:56779950-57194940	61	
+QHGHT9.29	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:56941893-57917210	150	
+QHGHT9.12	Wang et al 2014a	ICSV745/R890562-1-2	Height (plant height)	9:56942211-57292395	49	
+QHGHT9.103	Marla et al 2019	"NAM (BTx623 x Niu Shen Zui, Hong Ke Zi & Kaoliang) - JLM"	Height (plant height)	9:57025621-57108674	14	
+QHGHT9.31	Takai et al 2012	MS138B/74LH3213	Height (plant height)	9:57091740-57916828	126	
+QHGHT9.74	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	9:57151967-58010305	128	
+QHGHT9.13	Higgins et al 2014	FamilyD: SC1038/(LandracexBTx406)	Height (plant height)	9:57251733-57293293	5	
+QHGHT9.14	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	9:57251733-57293293	5	
+QHGHT9.15	Higgins et al 2014	FamilyD: SC1038/(LandracexBTx406)	Height (plant height)	9:57251733-57293293	5	
+QHGHT9.17	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	9:57278359-57297926	1	
+QHGHT9.18	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	9:57278359-57297926	1	
+QHGHT9.44	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:57292539-57929942	105	
+QHGHT9.76	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	9:57303035-57536560	39	
+QHGHT9.22	Higgins et al 2014	FamilyB: SC757/(LandracexBTx406)	Height (plant height)	9:57327486-57634721	46	
+QHGHT9.23	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	9:57327486-57634721	46	
+QHGHT9.24	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	9:57327486-57634721	46	
+QHGHT9.25	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	9:57327486-57634721	46	
+QHGHT9.26	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	9:57327486-57634721	46	
+QHGHT9.27	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	9:57327486-57634721	46	
+QHGHT9.28	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	9:57327486-57634721	46	
+QHGHT9.73	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	9:57441509-57986367	90	
+QHGHT9.49	Takai et al 2012	MS138B/74LH3213	Height (plant height)	9:57474075-57954737	81	
+QHGHT9.56	Pereira and Lee 1995	CK60/PI229828	Height (plant height)	9:57489318-59398238	252	
+QHGHT9.68	Zhao et al 2016	Sorghum Association Panel (SAP)	Height (plant height)	9:57497672-57777093	45	
+QHGHT9.32	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	9:57498502-57777777	46	
+QHGHT9.33	Higgins et al 2014	FamilyB: SC757/(LandracexBTx406)	Height (plant height)	9:57498502-57777777	46	
+QHGHT9.34	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	9:57498502-57777777	46	
+QHGHT9.35	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	9:57498502-57777777	46	
+QHGHT9.36	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	9:57498502-57777777	46	
+QHGHT9.37	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	9:57498502-57777777	46	
+QHGHT9.38	Higgins et al 2014	"Families A&B&C&D: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406))"	Height (plant height)	9:57498502-57777777	46	
+QHGHT9.39	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	9:57498502-57777777	46	
+QHGHT9.82	Hilley et al 2016		Height (plant height)	9:57589609-57852937	43	
+QHGHT9.40	Upadhyaya et al 2012b	mini-core set	Height (plant height)	9:57605941-57866409	44	
+QHGHT9.41	Wang et al 2012	mini-core set	Height (plant height)	9:57605971-57866434	44	
+QHGHT9.42	Wang et al 2012	mini-core set	Height (plant height)	9:57605971-57866434	44	
+QHGHT9.69	Zhao et al 2016	Sorghum Association Panel (SAP)	Height (plant height)	9:57650529-57899639	43	
+QHGHT9.100	Marla et al 2019	BTx623/Hong Ke Zi (CIM)	Height (plant height)	9:57722044-57874117	27	
+QHGHT9.43	Higgins et al 2014	"Families A&B&C&D&E: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406)), (SC1038/(LandracexBTx406)), (SC991/(LandracexBTx406))"	Height (plant height)	9:57732191-57902814	30	
+QHGHT9.47	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	9:57775368-57916277	27	
+QHGHT9.72	Wang et al 2016	Shihong137/L-Tian	Height (plant height)	9:57900599-57968816	10	
+QHGHT9.61	Nagaraja Reddy et al 2013	M35-1/B35	Height (plant height)	9:57903966-59398238	182	
+QHGHT9.57	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:57908288-59398238	181	
+QHGHT9.48	Higgins et al 2014	"Families A&B&C: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406)), (SC1203/(LandracexBTx406))"	Height (plant height)	9:57910496-57920351	2	
+QHGHT9.52	Felderhoff et al 2012	BTx3197/Rio	Height (plant height)	9:57918177-58684613	93	
+QHGHT9.50	Higgins et al 2014	FamilyE: SC991/(LandracexBTx406)	Height (plant height)	9:57919119-57928974	2	
+QHGHT9.51	Guan et al 2011	Shihong137/L-Tian	Height (plant height)	9:57938250-57975981	4	
+QHGHT9.70	Zhao et al 2016	Sorghum Association Panel (SAP)	Height (plant height)	9:57938294-57948149	2	
+QHGHT9.71	Zhao et al 2016	Sorghum Association Panel (SAP)	Height (plant height)	9:57951888-57961743	0	
+QHGHT9.53	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	9:57965000-57974855	2	
+QHGHT9.54	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	9:57965000-57974855	2	
+QHGHT9.55	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	9:57965000-57974855	2	
+QHGHT9.58	Higgins et al 2014	FamilyB: SC757/(LandracexBTx406)	Height (plant height)	9:58013103-58711162	87	
+QHGHT9.59	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	9:58013103-58711162	87	
+QHGHT9.60	Higgins et al 2014	"Families A&B: (SC673/(LandracexBTx406)), (SC757/(LandracexBTx406))"	Height (plant height)	9:58013103-58711162	87	
+QHGHT9.79	Yamaguchi et al 2016	bmr-6/SIL-05	Height (plant height)	9:59192467-59398238	30	
+QHGHT9.98	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	9:60000000-60000000	0	
+QHGHT9.99	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	9:60000000-60000000	0	
+QHGHT10.13	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	10:1518275-8359099	797	
+QSHGT10.3	McCormick et al 2017	BTx623/IS3620C	shoot height	10:5270000-7590000	242	
+QSHGT10.4	McCormick et al 2017	BTx623/IS3620C	shoot height	10:5270000-8600000	323	
+QSHCH10.1	McCormick et al 2017	BTx623/IS3620C	shoot cylinder height	10:5270000-52240000	1256	
+QSHCH10.2	McCormick et al 2017	BTx623/IS3620C	shoot cylinder height	10:5270000-52520000	1283	
+QHGHT10.2	Pereira and Lee 1995	CK60/PI229828	Height (plant height)	10:5813066-50273259	1073	
+QPLEN10.6	Pereira et al 1995	CK60/PI229828	Panicle length	10:6049853-46078458	892	
+QHGHT10.1	Feltus et al 2006	BTx623/IS3620C	Height Uniformity	10:7356520-9741996	199	
+QHGHT10.3	Hart et al 2001	BTx623/IS3620C	Height (plant height)	10:7649482-11172964	244	
+QHGHT10.4	Feltus et al 2006	BTx623/IS3620C	Height (plant height)	10:7686253-10509489	203	
+QHGHT10.17	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	10:8044545-51747348	941	
+QHGHT10.5	Shiringani et al 2010	M71/SS79	Height (plant height)	10:8640125-45554247	632	
+QHGHT10.18	Liu et al 2019	Tx623 x S. virgatum	Height (plant height)	10:9185221-52571741	913	
+QHGHT10.16	Kong et al 2018	BTx623/IS3620C	Height (plant height)	10:10627652-13583029	130	
+QHGHT10.6	Upadhyaya et al 2012b	mini-core set	Height (plant height)	10:50276643-50526633	7	
+QHGHT10.14	Mocoeur et al 2015	E-Tian/Ji2731	Height (plant height)	10:52112522-56441485	413	
+QHGHT10.8	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	10:52619425-56427175	365	
+QHGHT10.10	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	10:52648924-56417593	364	
+QHGHT10.9	Madhusudhana and Patil 2013	296B/IS18551	Height (plant height)	10:52963428-56323082	326	
+QHGHT10.7	Wang et al 2014a	R931945-2-2*2/S. bicolor subsp. verticilliflorum	Height (plant height)	10:53415467-53742139	26	
+QPLEN10.10	Rami et al 1998	IS2807/379	Panicle length	10:53547068-56414894	286	
+QPEDL10.1	Parh 2005	IS8525/R931945-2-2	Peduncle length	10:54127905-56896731	291	
+QHGHT10.11	Rajkumar et al 2013	E36-1/SPV570	Height (plant height)	10:56548575-60429301	492	
+QHGHT10.12	Upadhyaya et al 2012b	mini-core set	Height (plant height)	10:58818244-60429267	233	
+QHGHT10.15	Bouchet et al 2017	Nested Association Mapping set US	Height (plant height)	10:58838623-60429280	229	
